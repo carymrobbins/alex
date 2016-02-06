@@ -3,6 +3,7 @@
 *~
 *.o
 *.info
+.stack-work/
 /AlexTemplate-debug.bak
 /AlexTemplate-ghc-debug.bak
 /AlexTemplate-ghc.bak
